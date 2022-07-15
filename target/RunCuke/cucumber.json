@@ -1,0 +1,92 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 10610308600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "User Should Navigate To free game page SuccessFully",
+        "description": "",
+        "id": "top-menu-test;user-should-navigate-to-free-game-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 901400500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 133260400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on homepage",
+            "match": {
+              "location": "FreeGamePageStep.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 294375100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on free games link",
+            "match": {
+              "location": "FreeGamePageStep.iClickOnFreeGamesLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 539623300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I should see \"Virgin Games Daily Free Games\" text message",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Virgin Games Daily Free Games",
+                  "offset": 14
+                }
+              ],
+              "location": "FreeGamePageStep.iShouldSeeTextMessage(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Top menu Test",
+    "description": "As a user I want to navigate top menu of virgin games website",
+    "id": "top-menu-test",
+    "keyword": "Feature",
+    "uri": "freeGame.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@regression"
+      }
+    ]
+  }
+]

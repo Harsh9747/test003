@@ -1,0 +1,44 @@
+2022-06-14 18:06:825 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-06-14 18:06:454 INFO  HomePage :28 - Clicking on cookies [[ChromeDriver: chrome on WINDOWS (5d918b63d95833982c6c180605d885f3)] -> xpath: //label[contains(text(),'Accept')]]
+2022-06-14 18:06:551 INFO  HomePage :33 - Clicking on Free Games Link [[ChromeDriver: chrome on WINDOWS (5d918b63d95833982c6c180605d885f3)] -> xpath: //body/div[@id='app']/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[6]/a[1]]
+2022-06-14 18:06:59 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-06-14 18:06:76 INFO  HomePage :32 - Clicking on cookies [[ChromeDriver: chrome on WINDOWS (273db4a576b734cacc778f87f62e4280)] -> xpath: //label[contains(text(),'Accept')]]
+2022-06-14 18:06:861 INFO  HomePage :37 - Clicking on Free Games Link [[ChromeDriver: chrome on WINDOWS (273db4a576b734cacc778f87f62e4280)] -> xpath: //body/div[@id='app']/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[6]/a[1]]
+2022-06-14 18:06:85 INFO  FreeGamesPage :26 - Getting Daily Free Game Text [[ChromeDriver: chrome on WINDOWS (273db4a576b734cacc778f87f62e4280)] -> xpath: //h2[text()='Virgin Games Daily Free Games']]
+2022-06-14 18:06:308 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-06-14 18:06:939 INFO  HomePage :32 - Clicking on cookies [[ChromeDriver: chrome on WINDOWS (0a477f92184d53bb52f5669b3226dbb6)] -> xpath: //label[contains(text(),'Accept')]]
+2022-06-14 18:06:265 INFO  HomePage :37 - Clicking on Free Games Link [[ChromeDriver: chrome on WINDOWS (0a477f92184d53bb52f5669b3226dbb6)] -> xpath: //body/div[@id='app']/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[6]/a[1]]
+2022-06-14 18:06:887 INFO  FreeGamesPage :26 - Getting Daily Free Game Text [[ChromeDriver: chrome on WINDOWS (0a477f92184d53bb52f5669b3226dbb6)] -> xpath: //h2[text()='Virgin Games Daily Free Games']]
+2022-06-14 18:06:350 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-06-14 18:06:15 INFO  HomePage :32 - Clicking on cookies [[ChromeDriver: chrome on WINDOWS (0aeabac3e2c94384250ab3315fd770c3)] -> xpath: //label[contains(text(),'Accept')]]
+2022-06-14 18:06:518 INFO  HomePage :37 - Clicking on Free Games Link [[ChromeDriver: chrome on WINDOWS (0aeabac3e2c94384250ab3315fd770c3)] -> xpath: //body/div[@id='app']/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[6]/a[1]]
+2022-06-14 18:06:410 INFO  FreeGamesPage :26 - Getting Daily Free Game Text [[ChromeDriver: chrome on WINDOWS (0aeabac3e2c94384250ab3315fd770c3)] -> xpath: //h2[text()='Virgin Games Daily Free Games']]
+2022-06-14 19:06:464 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-06-14 19:06:738 INFO  HomePage :32 - Clicking on cookies [[ChromeDriver: chrome on WINDOWS (5330549c2186eadd668f4f029f735f99)] -> xpath: //label[contains(text(),'Accept')]]
+2022-06-14 19:06:547 INFO  HomePage :37 - Clicking on Free Games Link [[ChromeDriver: chrome on WINDOWS (5330549c2186eadd668f4f029f735f99)] -> xpath: //body/div[@id='app']/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[6]/a[1]]
+2022-06-14 19:06:620 INFO  FreeGamesPage :26 - Getting Daily Free Game Text [[ChromeDriver: chrome on WINDOWS (5330549c2186eadd668f4f029f735f99)] -> xpath: //h2[text()='Virgin Games Daily Free Games']]
+2022-06-14 19:06:635 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-06-14 19:06:634 INFO  HomePage :32 - Clicking on cookies [[ChromeDriver: chrome on WINDOWS (8a9bf256a90dd6e2640b6f68e5d75404)] -> xpath: //label[contains(text(),'Accept')]]
+2022-06-14 19:06:805 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-06-14 19:06:757 INFO  HomePage :32 - Clicking on cookies [[ChromeDriver: chrome on WINDOWS (7b8bb1f53a3a910a918771dfe37d9f76)] -> xpath: //label[contains(text(),'Accept')]]
+2022-06-14 19:06:887 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-06-14 19:06:62 INFO  HomePage :32 - Clicking on cookies [[ChromeDriver: chrome on WINDOWS (acc09933f3092d827f2a2c66dfdd92c8)] -> xpath: //label[contains(text(),'Accept')]]
+2022-06-14 19:06:306 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-06-14 19:06:689 INFO  HomePage :32 - Clicking on cookies [[ChromeDriver: chrome on WINDOWS (a0deb4a36b04552a51769e9bc074313c)] -> xpath: //label[contains(text(),'Accept')]]
+2022-06-14 19:06:878 INFO  HomePage :37 - Clicking on Free Games Link [[ChromeDriver: chrome on WINDOWS (a0deb4a36b04552a51769e9bc074313c)] -> xpath: //body/div[@id='app']/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[6]/a[1]]
+2022-06-14 19:06:198 INFO  FreeGamesPage :26 - Getting Daily Free Game Text [[ChromeDriver: chrome on WINDOWS (a0deb4a36b04552a51769e9bc074313c)] -> xpath: //h2[text()='Virgin Games Daily Free Games']]
+2022-06-18 11:06:42 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-06-18 11:06:644 INFO  HomePage :32 - Clicking on cookies [[ChromeDriver: chrome on WINDOWS (44452af397792f66fd7fb60717f8ce6a)] -> xpath: //label[contains(text(),'Accept')]]
+2022-06-18 11:06:988 INFO  HomePage :37 - Clicking on Free Games Link [[ChromeDriver: chrome on WINDOWS (44452af397792f66fd7fb60717f8ce6a)] -> xpath: //body/div[@id='app']/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[6]/a[1]]
+2022-06-18 11:06:625 INFO  FreeGamesPage :26 - Getting Daily Free Game Text [[ChromeDriver: chrome on WINDOWS (44452af397792f66fd7fb60717f8ce6a)] -> xpath: //h2[text()='Virgin Games Daily Free Games']]
+2022-06-18 14:06:345 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-06-18 14:06:183 INFO  HomePage :32 - Clicking on cookies [[ChromeDriver: chrome on WINDOWS (ca3f62872864241be3cbf02c5288fef1)] -> xpath: //label[contains(text(),'Accept')]]
+2022-06-18 14:06:516 INFO  HomePage :37 - Clicking on Free Games Link [[ChromeDriver: chrome on WINDOWS (ca3f62872864241be3cbf02c5288fef1)] -> xpath: //body/div[@id='app']/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[6]/a[1]]
+2022-06-18 14:06:290 INFO  FreeGamesPage :26 - Getting Daily Free Game Text [[ChromeDriver: chrome on WINDOWS (ca3f62872864241be3cbf02c5288fef1)] -> xpath: //h2[text()='Virgin Games Daily Free Games']]
+2022-06-26 14:06:757 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-06-26 14:06:319 INFO  HomePage :32 - Clicking on cookies [[ChromeDriver: chrome on WINDOWS (36829871fc668d8ac58c4456567aca64)] -> xpath: //label[contains(text(),'Accept')]]
+2022-06-26 14:06:545 INFO  HomePage :37 - Clicking on Free Games Link [[ChromeDriver: chrome on WINDOWS (36829871fc668d8ac58c4456567aca64)] -> xpath: //body/div[@id='app']/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[6]/a[1]]
+2022-06-26 14:06:959 INFO  FreeGamesPage :26 - Getting Daily Free Game Text [[ChromeDriver: chrome on WINDOWS (36829871fc668d8ac58c4456567aca64)] -> xpath: //h2[text()='Virgin Games Daily Free Games']]
+2022-06-28 14:06:196 INFO  HomePage :32 - Clicking on cookies [[EdgeDriver: msedge on WINDOWS (62efc48800d89fd8b491018bfd0ee22a)] -> xpath: //label[contains(text(),'Accept')]]
+2022-06-28 14:06:365 INFO  HomePage :37 - Clicking on Free Games Link [[EdgeDriver: msedge on WINDOWS (62efc48800d89fd8b491018bfd0ee22a)] -> xpath: //body/div[@id='app']/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[6]/a[1]]
+2022-06-28 14:06:888 INFO  FreeGamesPage :26 - Getting Daily Free Game Text [[EdgeDriver: msedge on WINDOWS (62efc48800d89fd8b491018bfd0ee22a)] -> xpath: //h2[text()='Virgin Games Daily Free Games']]
